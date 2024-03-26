@@ -23,3 +23,7 @@ Here you can see my projects about:
 :white_check_mark:	Automation
 
 Grab a coffee and enjoy it :coffee:	!
+
+
+
+![github-contribution-grid-snake](https://github.com/RenanCOliveira93/RenanCOliveira93/assets/95444548/e3baa59e-ffa2-4c29-92fb-9425034b88e5)

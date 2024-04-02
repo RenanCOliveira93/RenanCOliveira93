@@ -25,6 +25,11 @@ Here you can see my projects about:
 Grab a coffee and enjoy it :coffee:	!
 
 
+
+
+PS: Most of my projects were builded at my work, they had sensitive information, I can't share the projects here. What I can share it's just a piece of all my code works.
+
+
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=RenanCOliveira93&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko)
 
 

@@ -27,5 +27,4 @@ Grab a coffee and enjoy it :coffee:	!
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=RenanCOliveira93&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko)
 
-![github-contribution-grid-snake](https://github.com/RenanCOliveira93/RenanCOliveira93/assets/95444548/e3baa59e-ffa2-4c29-92fb-9425034b88e5)
 

@@ -1,4 +1,4 @@
-# Hello! I'm Renan Cunha de Oliveira, Data Scientist.
+# Hello! I'm Renan Cunha de Oliveira, Data Scientist and Machine Learning Engineer.
 
 About me:
 

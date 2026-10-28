@@ -1,35 +1,37 @@
-# Hello! I'm Renan Cunha de Oliveira, Data Scientist and Machine Learning Engineer.
+# Renan Cunha de Oliveira
 
-About me:
+**AI / Machine Learning Engineer · Computer Vision · LLMs & AI Agents**
 
-:infinity: Always studying and increasing my Knowleadge
+I design and build applied AI systems, from model experimentation and evaluation to APIs, automation, and deployment. My work spans computer vision, natural language processing, predictive analytics, and generative AI.
 
-:medical_symbol: My first graduation is Physical Therapy at Estácio
+I'm also the founder of **[Nexus Sight](https://www.nexussight.com.br/)**, where I work on turning existing retail cameras and business workflows into actionable operational intelligence.
 
-:bar_chart:	My second graduation is Data Science at Unicesumar
+### Areas of focus
 
+- **Computer vision & edge AI:** object detection, multi-object tracking, pose estimation, video analytics, and camera-based insights.
+- **LLMs & agentic systems:** retrieval-augmented generation (RAG), workflow automation, model evaluation, and observability.
+- **Machine learning:** classification, time-series forecasting, predictive maintenance, and business-oriented experimentation.
+- **Engineering:** Python, SQL, PyTorch, scikit-learn, FastAPI, Docker, AWS, and Google Cloud.
 
+### Selected public repositories
 
-Here you can see my projects about:
+| Project | Focus |
+| --- | --- |
+| [Medical document intelligence](https://github.com/RenanCOliveira93/ocr_medical_requirements) | OCR and document-processing exploration |
+| [LangChain / LangGraph chatbot](https://github.com/RenanCOliveira93/project_langchain_langgraph_chat) | LLM application development |
+| [Computer Vision projects](https://github.com/RenanCOliveira93/Computer_Vision_Facti_Projects) | Computer vision coursework and experiments |
+| [MLOps Zoomcamp](https://github.com/RenanCOliveira93/mlops-zoomcamp) | MLOps exercises and learning projects |
+| [BrandPose fork](https://github.com/RenanCOliveira93/brandpose) | Exploration of shopper gaze estimation; original project by [Claudio Escudero](https://github.com/escudero/brandpose) |
 
-:white_check_mark:	Machine Learning
+> My retail intelligence platform and some professional projects are private or client-confidential. Public repositories are selected examples of my work and ongoing learning; they are not a complete inventory of production systems.
 
-:white_check_mark:	Data Science
+### Currently exploring
 
-:white_check_mark:	Data Analysis
+Geospatial AI, remote sensing, multimodal computer vision, and efficient edge inference.
 
-:white_check_mark:	Computer Vision
+### Connect
 
-:white_check_mark:	Automation
+- [Nexus Sight](https://www.nexussight.com.br/)
+- [LinkedIn](https://www.linkedin.com/in/renan-cunha-de-oliveira/)
 
-Grab a coffee and enjoy it :coffee:	!
-
-
-
-
-PS: Most of my projects were builded at my work, they had sensitive information, I can't share the projects here. What I can share it's just a piece of all my code works.
-
-
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=RenanCOliveira93&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko)
-
-
+**Open to international AI/ML engineering opportunities, including remote roles and relocation.**
